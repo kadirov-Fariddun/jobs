@@ -5,6 +5,7 @@ job posting site
 - react-router-dom
 - hooks
 - create **VITE**
+- view my my [Project](https://kadirov-fariddun.github.io/jobs/)
 ## Libs
 - react-slick
 - slick-carousel
